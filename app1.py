@@ -43,7 +43,7 @@ conf_threshold = st.sidebar.slider(
 # App Title
 # -------------------------------
 st.title("🛒 Smart Store Product Detection System")
-st.markdown("Upload an image to detect products from cake, candy, cereal, chips, chocolate, coffee, fish, honey, jam, milk, oil, pasta, rice, soda, sugar, tea, vinegar, water ")
+st.markdown("Upload an image to detect products from cake, candy, cereal, chips, chocolate, coffee, fish, honey, jam, milk, oil, pasta, rice, soda, sugar, tea, vinegar, water categories" ")
 # -------------------------------
 # File Upload
 # -------------------------------
