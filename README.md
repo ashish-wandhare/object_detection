@@ -1,27 +1,6 @@
 # Smart Shelf Inventory System
 ### Retail Product Detection Using YOLOv8
 
-## 📸 Application Preview
-
-### Main Application
-<p align="center">
-  <img width="100%" alt="Object Detection Main Page" src="https://github.com/user-attachments/assets/27838691-2b90-4c54-924a-b07f94e59372" />
-</p>
-
-### Application Interface
-<p align="center">
-  <img width="100%" alt="Main Page" src="https://github.com/user-attachments/assets/cb7de33f-0d40-4442-ae34-ef18663732be" />
-</p>
-
-### Product Detection
-<p align="center">
-  <img width="100%" alt="Product Detection" src="https://github.com/user-attachments/assets/473c558e-80de-4285-bb63-626d35f9241e" />
-</p>
-
-### Detection Results
-<p align="center">
-  <img width="100%" alt="Detection Result" src="https://github.com/user-attachments/assets/e10c40d2-e692-4ca5-b1e0-50bb818fa076" />
-</p>
 
 ## Overview
 
@@ -187,4 +166,27 @@ The project demonstrates the potential of AI-based product detection in:
   <img src="https://img.shields.io/badge/Framework-Ultralytics-orange" alt="Ultralytics">
   <img src="https://img.shields.io/badge/Interface-Streamlit-red" alt="Streamlit">
 </p>
+## 📸 Application Preview
+
+### Main Application
+<p align="center">
+  <img width="100%" alt="Object Detection Main Page" src="https://github.com/user-attachments/assets/27838691-2b90-4c54-924a-b07f94e59372" />
+</p>
+
+### Application Interface
+<p align="center">
+  <img width="100%" alt="Main Page" src="https://github.com/user-attachments/assets/cb7de33f-0d40-4442-ae34-ef18663732be" />
+</p>
+
+### Product Detection
+<p align="center">
+  <img width="100%" alt="Product Detection" src="https://github.com/user-attachments/assets/473c558e-80de-4285-bb63-626d35f9241e" />
+</p>
+
+### Detection Results
+<p align="center">
+  <img width="100%" alt="Detection Result" src="https://github.com/user-attachments/assets/e10c40d2-e692-4ca5-b1e0-50bb818fa076" />
+</p>
+
+
 AI/ML Engineer | Python | Machine Learning | Computer Vision | Generative AI
