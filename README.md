@@ -180,11 +180,13 @@ The project demonstrates the potential of AI-based product detection in:
 - Model-serving API for external applications
 - Retail analytics dashboard
 
-## Project Repository
+## 📌 Info
 
-Explore the source code, model implementation, and project resources:
-
-[GitHub Repository](https://github.com/ashish-wandhare/object_detection)
+| Platform | Link |
+|---|---|
+| GitHub | [Repository](https://github.com/ashish-wandhare/retail_classification) |
+| Streamlit Cloud | [Live Demo](https://ashish-retailclassification.streamlit.app/) |
+| AWS EC2 | [Live Demo](http://13.239.147.87:8503/) |
 
 
 AI/ML Engineer | Python | Machine Learning | Computer Vision | Generative AI
