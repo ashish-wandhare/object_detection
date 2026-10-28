@@ -186,9 +186,6 @@ Explore the source code, model implementation, and project resources:
 
 [GitHub Repository](https://github.com/ashish-wandhare/object_detection)
 
-## Author
-
-**Ashish Sudhakar Wandhare**
 
 AI/ML Engineer | Python | Machine Learning | Computer Vision | Generative AI
 
