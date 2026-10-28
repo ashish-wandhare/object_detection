@@ -190,5 +190,3 @@ The project demonstrates the potential of AI-based product detection in:
 
 
 AI/ML Engineer | Python | Machine Learning | Computer Vision | Generative AI
-
-[GitHub](https://github.com/ashish-wandhare)
