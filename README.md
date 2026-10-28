@@ -1,5 +1,10 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Vision-Object%20Detection-blue" alt="Computer Vision">
+  <img src="https://img.shields.io/badge/Model-YOLOv8-purple" alt="YOLOv8">
+  <img src="https://img.shields.io/badge/Framework-Ultralytics-orange" alt="Ultralytics">
+  <img src="https://img.shields.io/badge/Interface-Streamlit-red" alt="Streamlit">
+</p>
 
-AI/ML Engineer | Python | Machine Learning | Computer Vision | Generative AI
 # Smart Shelf Inventory System
 ### Retail Product Detection Using YOLOv8
 
@@ -162,12 +167,7 @@ The project demonstrates the potential of AI-based product detection in:
 | Streamlit Cloud | [Live Demo](https://ashish-retailclassification.streamlit.app/) |
 | AWS EC2 | [Live Demo](http://13.239.147.87:8503/) |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Vision-Object%20Detection-blue" alt="Computer Vision">
-  <img src="https://img.shields.io/badge/Model-YOLOv8-purple" alt="YOLOv8">
-  <img src="https://img.shields.io/badge/Framework-Ultralytics-orange" alt="Ultralytics">
-  <img src="https://img.shields.io/badge/Interface-Streamlit-red" alt="Streamlit">
-</p>
+
 ## 📸 Application Preview
 
 ### Main Application
