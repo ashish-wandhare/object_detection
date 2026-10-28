@@ -1,12 +1,33 @@
 # Smart Shelf Inventory System
 ### Retail Product Detection Using YOLOv8
 
-## 📸 Application Preview
 <p align="center">
-  <img width="1438" height="752" alt="1_OD_Main_Page" src="https://github.com/user-attachments/assets/27838691-2b90-4c54-924a-b07f94e59372" />
-  <img width="1915" height="945" alt="2_Main_page" src="https://github.com/user-attachments/assets/cb7de33f-0d40-4442-ae34-ef18663732be" />
-  <img width="1917" height="943" alt="3_Detection" src="https://github.com/user-attachments/assets/473c558e-80de-4285-bb63-626d35f9241e" />
-  <img width="1897" height="943" alt="4_Detection_Result" src="https://github.com/user-attachments/assets/e10c40d2-e692-4ca5-b1e0-50bb818fa076" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-Object%20Detection-blue" alt="Computer Vision">
+  <img src="https://img.shields.io/badge/Model-YOLOv8-purple" alt="YOLOv8">
+  <img src="https://img.shields.io/badge/Framework-Ultralytics-orange" alt="Ultralytics">
+  <img src="https://img.shields.io/badge/Interface-Streamlit-red" alt="Streamlit">
+</p>
+
+## 📸 Application Preview
+
+### Main Application
+<p align="center">
+  <img width="100%" alt="Object Detection Main Page" src="https://github.com/user-attachments/assets/27838691-2b90-4c54-924a-b07f94e59372" />
+</p>
+
+### Application Interface
+<p align="center">
+  <img width="100%" alt="Main Page" src="https://github.com/user-attachments/assets/cb7de33f-0d40-4442-ae34-ef18663732be" />
+</p>
+
+### Product Detection
+<p align="center">
+  <img width="100%" alt="Product Detection" src="https://github.com/user-attachments/assets/473c558e-80de-4285-bb63-626d35f9241e" />
+</p>
+
+### Detection Results
+<p align="center">
+  <img width="100%" alt="Detection Result" src="https://github.com/user-attachments/assets/e10c40d2-e692-4ca5-b1e0-50bb818fa076" />
 </p>
 
 ## Overview
@@ -109,25 +130,25 @@ The inference output includes bounding boxes, class labels, and confidence score
 ## System Architecture
 
 ```text
-        Retail Shelf Image
-                |
-                v
-      Image Preprocessing
-                |
-                v
-      Trained YOLOv8 Model
-                |
-                v
-       Object Detection
-                |
-                v
-    Product Class Predictions
-                |
-                v
-      Bounding Box Results
-                |
-                v
-     Visualized Detection Output
+       Retail Shelf Image
+               |
+               v
+     Image Preprocessing
+               |
+               v
+     Trained YOLOv8 Model
+               |
+               v
+      Object Detection
+               |
+               v
+   Product Class Predictions
+               |
+               v
+     Bounding Box Results
+               |
+               v
+    Visualized Detection Output
 ```
 
 ## Application
@@ -172,4 +193,3 @@ Explore the source code, model implementation, and project resources:
 AI/ML Engineer | Python | Machine Learning | Computer Vision | Generative AI
 
 [GitHub](https://github.com/ashish-wandhare)
-
