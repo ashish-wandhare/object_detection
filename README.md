@@ -190,7 +190,7 @@ The project demonstrates the potential of AI-based product detection in:
   <img width="100%" alt="Detection Result" src="https://github.com/user-attachments/assets/e10c40d2-e692-4ca5-b1e0-50bb818fa076" />
 </p>
 
-## 📸 Expermental Result
+## 📸 Experimental results
 <img width="1920" height="1920" alt="train_batch0" src="https://github.com/user-attachments/assets/e210cafb-8069-4978-9ac0-70e26fb57c4b" />
 <img width="1920" height="1920" alt="train_batch1" src="https://github.com/user-attachments/assets/196c28f5-80ba-4ff1-90d3-6d8280ceaa8b" />
 <img width="1920" height="1920" alt="train_batch2" src="https://github.com/user-attachments/assets/0253688b-d49b-4456-a36e-7eca3dd56285" />
