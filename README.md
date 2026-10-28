@@ -190,4 +190,28 @@ The project demonstrates the potential of AI-based product detection in:
   <img width="100%" alt="Detection Result" src="https://github.com/user-attachments/assets/e10c40d2-e692-4ca5-b1e0-50bb818fa076" />
 </p>
 
+## 📸 Expermental Result
+<img width="1920" height="1920" alt="train_batch0" src="https://github.com/user-attachments/assets/e210cafb-8069-4978-9ac0-70e26fb57c4b" />
+<img width="1920" height="1920" alt="train_batch1" src="https://github.com/user-attachments/assets/196c28f5-80ba-4ff1-90d3-6d8280ceaa8b" />
+<img width="1920" height="1920" alt="train_batch2" src="https://github.com/user-attachments/assets/0253688b-d49b-4456-a36e-7eca3dd56285" />
+<img width="1920" height="1920" alt="train_batch9000" src="https://github.com/user-attachments/assets/d376475c-edae-4351-b2f7-b77210530f9b" />
+<img width="1920" height="1920" alt="train_batch9001" src="https://github.com/user-attachments/assets/337510e3-be72-44b6-b8bb-1e534d1bc53c" />
+<img width="1920" height="1920" alt="train_batch9002" src="https://github.com/user-attachments/assets/9f57f90a-44b1-40a8-bae1-b017eb12e51b" />
+<img width="1920" height="1920" alt="val_batch0_labels" src="https://github.com/user-attachments/assets/b4161aba-c31e-4f73-b881-f4dc5e167d20" />
+<img width="1920" height="1920" alt="val_batch0_pred" src="https://github.com/user-attachments/assets/f08a0c9e-75f8-413d-8c3f-26842b0732d7" />
+<img width="1920" height="1920" alt="val_batch1_labels" src="https://github.com/user-attachments/assets/dc2e689c-cc78-45e3-9344-13a171398903" />
+<img width="1920" height="1920" alt="val_batch1_pred" src="https://github.com/user-attachments/assets/7c388a01-e42e-478b-8c27-d0c52dd45e27" />
+<img width="1920" height="1920" alt="val_batch2_labels" src="https://github.com/user-attachments/assets/b66d276e-e4aa-4dfd-a94b-7f5f7b208098" />
+<img width="1920" height="1920" alt="val_batch2_pred" src="https://github.com/user-attachments/assets/fb696c40-4cab-4c0b-a34f-954b14fe1d35" />
+
+<img width="2250" height="1500" alt="BoxF1_curve" src="https://github.com/user-attachments/assets/d038cc3d-f0ff-4da3-8fa4-fde944de0aa7" />
+<img width="2250" height="1500" alt="BoxP_curve" src="https://github.com/user-attachments/assets/2ec7b13c-d936-4d4d-8508-aa44597deaed" />
+<img width="2250" height="1500" alt="BoxPR_curve" src="https://github.com/user-attachments/assets/35e5a0ad-6b1f-4333-a0f9-77e0d31d8a24" />
+<img width="2250" height="1500" alt="BoxR_curve" src="https://github.com/user-attachments/assets/26964ac5-3035-45c9-933f-0f11007cfdb1" />
+<img width="3000" height="2250" alt="confusion_matrix" src="https://github.com/user-attachments/assets/1df159aa-2e4a-43e5-8c53-290f8493a49d" />
+<img width="3000" height="2250" alt="confusion_matrix_normalized" src="https://github.com/user-attachments/assets/bee94e50-5997-40ed-a8b2-69097449aa93" />
+<img width="1600" height="1600" alt="labels" src="https://github.com/user-attachments/assets/45ff9c64-6d89-49f1-b536-dbc7a886397e" />
+<img width="2400" height="1200" alt="results" src="https://github.com/user-attachments/assets/35b018c6-0429-4f78-bf5b-4b249314d4aa" />
+
+
 
