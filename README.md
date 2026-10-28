@@ -1,3 +1,5 @@
+
+AI/ML Engineer | Python | Machine Learning | Computer Vision | Generative AI
 # Smart Shelf Inventory System
 ### Retail Product Detection Using YOLOv8
 
@@ -189,4 +191,3 @@ The project demonstrates the potential of AI-based product detection in:
 </p>
 
 
-AI/ML Engineer | Python | Machine Learning | Computer Vision | Generative AI
